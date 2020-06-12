@@ -63,4 +63,14 @@ conn_sql_dict = {0:"", 1:"and", 2:"or"}
 如有问题，请联系 杨雪峰 ryan@wezhuiyi.com、孙宁远 waynesun@wezhuiyi.com
 
 #### 使用权限
-本数据开源给学术界推动技术进步， 严禁商业使用与未授权公开转发
+本数据开源给学术界推动技术进步， 严禁商业使用与未授权公开转发. 如果您在研究中使用了本数据集，请引用
+https://arxiv.org/abs/2006.06434
+
+@misc{sun2020tableqa,
+    title={TableQA: a Large-Scale Chinese Text-to-SQL Dataset for Table-Aware SQL Generation},
+    author={Ningyuan Sun and Xuefeng Yang and Yunfeng Liu},
+    year={2020},
+    eprint={2006.06434},
+    archivePrefix={arXiv},
+    primaryClass={cs.DB}
+}
